@@ -1,4 +1,4 @@
-### Juan Antonio Ramirez-Orta 👋
+### Juan Ramirez-Orta 👋
 
 - 🔭 I’m a Computer Science PhD student at [Dalhousie University](https://www.dal.ca/) under the supervision of [Dr. Evangelos Milios](https://web.cs.dal.ca/~eem/) in the [MALNIS lab](https://malnis.cs.dal.ca/).
 - 🌱 I’m currently learning about Efficient NLP, Information Extraction and Information Retrieval.
