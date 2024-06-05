@@ -1,6 +1,6 @@
 ### Juan Ramirez-Orta 👋
 
-- 🔭 I’m a Computer Science PhD student at [Dalhousie University](https://www.dal.ca/) under the supervision of [Dr. Evangelos Milios](https://web.cs.dal.ca/~eem/) in the [MALNIS lab](https://malnis.cs.dal.ca/).
+- 🔭 I was a Computer Science PhD student at [Dalhousie University](https://www.dal.ca/) under the supervision of [Dr. Evangelos Milios](https://web.cs.dal.ca/~eem/) in the [MALNIS lab](https://malnis.cs.dal.ca/).
 - 🌱 I’m currently learning about Efficient NLP, Information Extraction and Information Retrieval.
 - 👯 I’m looking to collaborate on open-source projects to fight Climate Change.
 - 🤔 I’m looking for help with JavaScript and Web Development in general. Any advice is appreciated!
