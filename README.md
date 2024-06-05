@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on open-source projects to fight Climate Change.
 - 🤔 I’m looking for help with JavaScript and Web Development in general. Any advice is appreciated!
 - 💬 Ask me about Mathematics in general, Machine Learning, Deep Learning and Natural Language Processing.
-- 📫 How to reach me: jarobyte91@gmail.com
+- 📫 How to reach me: ramirez.orta.juan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play Chess! Feel free to challenge me on [lichess](https://lichess.org/@/jarobyte).
